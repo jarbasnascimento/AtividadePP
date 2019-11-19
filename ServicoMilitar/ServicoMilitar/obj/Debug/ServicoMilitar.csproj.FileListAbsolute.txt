@@ -1,0 +1,5 @@
+G:\ETEC\MODULO2\exercioPP\ServicoMilitar\ServicoMilitar\bin\Debug\ServicoMilitar.exe.config
+G:\ETEC\MODULO2\exercioPP\ServicoMilitar\ServicoMilitar\bin\Debug\ServicoMilitar.exe
+G:\ETEC\MODULO2\exercioPP\ServicoMilitar\ServicoMilitar\bin\Debug\ServicoMilitar.pdb
+G:\ETEC\MODULO2\exercioPP\ServicoMilitar\ServicoMilitar\obj\Debug\ServicoMilitar.exe
+G:\ETEC\MODULO2\exercioPP\ServicoMilitar\ServicoMilitar\obj\Debug\ServicoMilitar.pdb

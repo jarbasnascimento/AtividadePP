@@ -1,0 +1,5 @@
+G:\ETEC\MODULO2\exercioPP\NumerosImparesEntre100E200\NumerosImparesEntre100E200\bin\Debug\NumerosImparesEntre100E200.exe.config
+G:\ETEC\MODULO2\exercioPP\NumerosImparesEntre100E200\NumerosImparesEntre100E200\bin\Debug\NumerosImparesEntre100E200.exe
+G:\ETEC\MODULO2\exercioPP\NumerosImparesEntre100E200\NumerosImparesEntre100E200\bin\Debug\NumerosImparesEntre100E200.pdb
+G:\ETEC\MODULO2\exercioPP\NumerosImparesEntre100E200\NumerosImparesEntre100E200\obj\Debug\NumerosImparesEntre100E200.exe
+G:\ETEC\MODULO2\exercioPP\NumerosImparesEntre100E200\NumerosImparesEntre100E200\obj\Debug\NumerosImparesEntre100E200.pdb

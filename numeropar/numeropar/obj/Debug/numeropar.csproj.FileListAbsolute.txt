@@ -1,0 +1,6 @@
+G:\ETEC\MODULO2\exercioPP\numeropar\numeropar\bin\Debug\numeropar.exe.config
+G:\ETEC\MODULO2\exercioPP\numeropar\numeropar\bin\Debug\numeropar.exe
+G:\ETEC\MODULO2\exercioPP\numeropar\numeropar\bin\Debug\numeropar.pdb
+G:\ETEC\MODULO2\exercioPP\numeropar\numeropar\obj\Debug\numeropar.csprojResolveAssemblyReference.cache
+G:\ETEC\MODULO2\exercioPP\numeropar\numeropar\obj\Debug\numeropar.exe
+G:\ETEC\MODULO2\exercioPP\numeropar\numeropar\obj\Debug\numeropar.pdb
